@@ -1,0 +1,30 @@
+<Shop>
+	<Item>
+    <ID>0</ID>
+		<speed>+1</speed>
+		<rotate>+1</rotate>
+		<model>ShipModel/Ship_4</model>    
+    <price>2000</price>
+	</Item>
+	<Item>
+    <ID>1</ID>
+		<speed>+2</speed>
+		<rotate>+3</rotate>
+		<model>ShipModel/Ship_2</model>
+    <price>3000</price>
+	</Item>
+	<Item>
+    <ID>2</ID>
+		<speed>+3</speed>
+		<rotate>+4</rotate>
+		<model>ShipModel/Ship_3</model>
+    <price>5000</price>
+	</Item>
+	<Item>
+    <ID>3</ID>
+		<speed>+4</speed>
+		<rotate>+5</rotate>
+		<model>ShipModel/Ship_1</model>
+    <price>8000</price>
+	</Item>	
+</Shop>

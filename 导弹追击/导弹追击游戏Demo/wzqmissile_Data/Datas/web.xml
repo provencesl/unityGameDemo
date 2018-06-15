@@ -1,0 +1,16 @@
+<Web>
+	<Item id="1">
+		<name>擅码网</name>
+		<url>www.mkcode.net</url>
+	</Item>
+	
+	<Item id="2">
+		<name>百度</name>
+		<url>www.baidu.com</url>
+	</Item>
+	
+	<Item id="3">
+		<name>Unity</name>
+		<url>www.unity3d.com</url>
+	</Item>
+</Web>

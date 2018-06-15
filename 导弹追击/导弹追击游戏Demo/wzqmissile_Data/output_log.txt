@@ -1,0 +1,62 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M               (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+    Driver:   9.18.13.4505
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\游戏Demo工程\导弹追击\导弹追击游戏Demo\wzqmissile_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\游戏Demo工程\导弹追击\导弹追击游戏Demo\wzqmissile_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\游戏Demo工程\导弹追击\导弹追击游戏Demo\wzqmissile_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\游戏Demo工程\导弹追击\导弹追击游戏Demo\wzqmissile_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\游戏Demo工程\导弹追击\导弹追击游戏Demo\wzqmissile_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\游戏Demo工程\导弹追击\导弹追击游戏Demo\wzqmissile_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\游戏Demo工程\导弹追击\导弹追击游戏Demo\wzqmissile_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\游戏Demo工程\导弹追击\导弹追击游戏Demo\wzqmissile_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.114 seconds
+Platform assembly: D:\游戏Demo工程\导弹追击\导弹追击游戏Demo\wzqmissile_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\游戏Demo工程\导弹追击\导弹追击游戏Demo\wzqmissile_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.858695 ms
+Platform assembly: D:\游戏Demo工程\导弹追击\导弹追击游戏Demo\wzqmissile_Data\Managed\System.Xml.dll (this message is harmless)
+64120
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+130
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.668962 ms
+
+Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 998.
+Total: 3.698492 ms (FindLiveObjects: 0.068721 ms CreateObjectMapping: 0.039269 ms MarkObjects: 0.363691 ms  DeleteObjects: 3.226809 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2744 -> priority: 1 
+  Thread -> id: 2984 -> priority: 1 
+  Thread -> id: 3290 -> priority: 1 
+  Thread -> id: 328c -> priority: 1 

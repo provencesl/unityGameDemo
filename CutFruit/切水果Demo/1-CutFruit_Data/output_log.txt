@@ -1,0 +1,683 @@
+Initialize engine version: 5.6.1p3 (ede8e3f4adbd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M               (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+    Driver:   9.18.13.4505
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.649 seconds
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.540482 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 3404 -> priority: 1 
+  Thread -> id: 245c -> priority: 1 
+  Thread -> id: 1508 -> priority: 1 
+  Thread -> id: 2688 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'SplashYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Fireworks') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.576783 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 408.
+Total: 1.674763 ms (FindLiveObjects: 0.044624 ms CreateObjectMapping: 0.033914 ms MarkObjects: 0.348964 ms  DeleteObjects: 1.246366 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Fireworks') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Fireworks') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+Initialize engine version: 5.6.1p3 (ede8e3f4adbd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M               (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+    Driver:   9.18.13.4505
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.403930 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 27bc -> priority: 1 
+  Thread -> id: 28fc -> priority: 1 
+  Thread -> id: 2990 -> priority: 1 
+  Thread -> id: 215c -> priority: 1 
+Initialize engine version: 5.6.1p3 (ede8e3f4adbd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M               (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+    Driver:   9.18.13.4505
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\游戏Demo工程\CutFruit\切水果Demo\1-CutFruit_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.339186 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1e74 -> priority: 1 
+  Thread -> id: 1510 -> priority: 1 
+  Thread -> id: 3180 -> priority: 1 
+  Thread -> id: 2870 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'SplashYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Fireworks') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.292446 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 407.
+Total: 1.345433 ms (FindLiveObjects: 0.046855 ms CreateObjectMapping: 0.033022 ms MarkObjects: 0.274441 ms  DeleteObjects: 0.989775 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Fireworks') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Fireworks') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashRed') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Fireworks') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Fireworks') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashYellow') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashFlatGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'SplashGreen') is missing!
+ 
+(Filename:  Line: 1743)
+
